@@ -97,6 +97,7 @@ need to break up number and get the average
 ## Break down country
 - viz: treemap
 - value: country (distinct)
+- the purpose of this could be to see different salary ranges since other places could have different prices for price of living
 
 ## Gauge for happiness with work/life
 - value: happiness (average)
