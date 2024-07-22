@@ -3,6 +3,7 @@
 ## Project Overview
 Performed data cleaning in Power BI
 Creating an Data Professional Survey Dashboard using Microsoft Power BI
+
 Click [here](https://github.com/user-attachments/files/16340274/Data.Professional.Survey.Dashboard.pdf) for the Data Professional Survey Dashboard
 ![Screenshot 2024-07-22 152758](https://github.com/user-attachments/assets/6bd6abe4-8f72-4e3d-9b64-e8dcb7fdffc8)
 
