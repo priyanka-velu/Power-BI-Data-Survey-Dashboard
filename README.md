@@ -1,4 +1,4 @@
-# Data Professional Survey Power BI Dashboard
+# Data Professional Survey Dashboard
 
 ## Project Overview
 This project aims to transform and visualize the data from a survey of data professionals, using Microsoft Power BI. The project includes thorough data cleaning and preprocessing steps to ensure data quality, followed by the creation of an interactive dashboard that provides key insights into job titles, programming languages, salaries, and other relevant factors. The end goal is to present the survey findings in a clear, concise, and visually appealing manner that can inform decision-making based on data-driven insights.
