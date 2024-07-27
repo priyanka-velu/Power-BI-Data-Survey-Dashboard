@@ -15,31 +15,27 @@ This project aims to transform and visualize the data from a survey of data prof
    - Microsoft Power BI
    - Microsoft Excel
 
-## Data Cleaning Steps
+## Data Cleaning
 
-### 1. Data Preparation in Microsoft Excel
+### 1. Data Preparation in Excel
 - Applied filters to all columns to facilitate data review and cleaning.
 - Reviewed all columns to gauge what information to highlight (ie. programming languages, occupations)
 
-### 2. Data Import and Transformation in Power BI
-- Imported data from the Excel file into Power BI.
-- Verified data integrity and performed necessary transformations.
-
-### 3. Removing Unnecessary Columns
+### 2. Removing Unnecessary Columns in Power BI
 - Identified and removed columns that do not contribute to the analysis.
 
-### 4. Standardizing Job Titles
+### 3. Standardizing Job Titles
 - Cleaned the job title data by splitting and reformatting entries, ensuring consistency.
 
-### 5. Programming Languages Cleanup
+### 4. Programming Languages Cleanup
 - Processed the programming languages column by isolating individual languages and removing extraneous data.
 
-### 6. Salary Data Normalization
+### 5. Salary Data Normalization
 - Created custom columns to calculate average salaries by splitting the salary ranges into low and high values.
 - Replaced text indicators (e.g., "k" for thousand) with numerical values to ensure consistency and accuracy.
 - Calculated the average salary for each entry to facilitate analysis.
 
-### 7. Extraction of Country Information
+### 6. Extraction of Country Information
 - Split and cleaned the country and industry fields to ensure accurate representation and better data analysis.
 
 ## Data Visualization and Analysis
