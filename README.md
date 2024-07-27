@@ -45,8 +45,11 @@ This project aims to transform and visualize the data from a survey of data prof
 ## Data Visualization and Analysis
 
 ### 1. Count of Survey Takers and Average Age
-- **Count of Survey Takers**: Displayed the total number of unique survey respondents using a card visualization.
-- **Average Age**: Showed the average age of survey takers using a card visualization.
+- **Methods**:
+   - Displayed the total number of unique survey respondents using a card visualization.
+   -Showed the average age of survey takers using a card visualization.
+- **Question: How many data professionals participated in the survey, and what is their average age?**
+  - **Answer**: The **Count of Survey Takers** card displays the total number of unique respondents, giving a sense of the survey's reach and sample size. The **Average Age** card shows the mean age of the participants, which can help businesses understand the demographic profile of their data workforce. This information is useful for tailoring recruitment strategies and professional development programs to fit the age profile of the industry.
   ![Screenshot 2024-07-22 152435](https://github.com/user-attachments/assets/2655833c-2669-4277-8401-ae908dcfa8cf)
 
 ### 2. Job Titles vs. Salary
